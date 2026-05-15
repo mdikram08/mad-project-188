@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.example.smarthostel.app-mergeDebugResources-35:/layout/item_food_review.xml",
+        "source": "com.example.smarthostel.app-main-38:/layout/item_food_review.xml"
+    },
+    {
+        "merged": "com.example.smarthostel.app-mergeDebugResources-35:/layout/activity_complaint.xml",
+        "source": "com.example.smarthostel.app-main-38:/layout/activity_complaint.xml"
+    },
+    {
+        "merged": "com.example.smarthostel.app-mergeDebugResources-35:/layout/item_room_request.xml",
+        "source": "com.example.smarthostel.app-main-38:/layout/item_room_request.xml"
+    },
+    {
+        "merged": "com.example.smarthostel.app-mergeDebugResources-35:/layout/activity_student_dashboard.xml",
+        "source": "com.example.smarthostel.app-main-38:/layout/activity_student_dashboard.xml"
+    },
+    {
+        "merged": "com.example.smarthostel.app-mergeDebugResources-35:/layout/activity_register.xml",
+        "source": "com.example.smarthostel.app-main-38:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.smarthostel.app-mergeDebugResources-35:/layout/activity_warden_dashboard.xml",
+        "source": "com.example.smarthostel.app-main-38:/layout/activity_warden_dashboard.xml"
+    },
+    {
+        "merged": "com.example.smarthostel.app-mergeDebugResources-35:/layout/activity_warden_list.xml",
+        "source": "com.example.smarthostel.app-main-38:/layout/activity_warden_list.xml"
+    },
+    {
+        "merged": "com.example.smarthostel.app-mergeDebugResources-35:/layout/activity_food_review.xml",
+        "source": "com.example.smarthostel.app-main-38:/layout/activity_food_review.xml"
+    },
+    {
+        "merged": "com.example.smarthostel.app-mergeDebugResources-35:/layout/activity_leave_request.xml",
+        "source": "com.example.smarthostel.app-main-38:/layout/activity_leave_request.xml"
+    },
+    {
+        "merged": "com.example.smarthostel.app-mergeDebugResources-35:/layout/item_complaint.xml",
+        "source": "com.example.smarthostel.app-main-38:/layout/item_complaint.xml"
+    },
+    {
+        "merged": "com.example.smarthostel.app-mergeDebugResources-35:/layout/activity_room_request.xml",
+        "source": "com.example.smarthostel.app-main-38:/layout/activity_room_request.xml"
+    },
+    {
+        "merged": "com.example.smarthostel.app-mergeDebugResources-35:/layout/activity_login.xml",
+        "source": "com.example.smarthostel.app-main-38:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.smarthostel.app-mergeDebugResources-35:/layout/item_leave_request.xml",
+        "source": "com.example.smarthostel.app-main-38:/layout/item_leave_request.xml"
+    }
+]

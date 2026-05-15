@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">692040501568</string>
+    <string name="google_api_key" translatable="false">AIzaSyD8wNDId0Jr0WfVEgV6S9QS5KBEPi48ak4</string>
+    <string name="google_app_id" translatable="false">1:692040501568:android:93d1edfcf8e2cc238912a5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD8wNDId0Jr0WfVEgV6S9QS5KBEPi48ak4</string>
+    <string name="google_storage_bucket" translatable="false">smart-hostel-management-af72c.firebasestorage.app</string>
+    <string name="project_id" translatable="false">smart-hostel-management-af72c</string>
+</resources>

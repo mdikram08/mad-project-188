@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="accent">#FF4081</color>
+    <color name="background">#FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="editTextColor">#000000</color>
+    <color name="primary">#2196F3</color>
+    <color name="primaryDark">#1976D2</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="ac">AC</string>
+    <string name="all_reviews">All Reviews</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    <string name="app_name">Smart Hostel</string>
+    <string name="approve">Approve</string>
+    <string name="category">Category</string>
+    <string name="comment">Comment</string>
+    <string name="complaint_system">Complaint System</string>
+    <string name="department">Department</string>
+    <string name="description">Description</string>
+    <string name="email">Email</string>
+    <string name="food_review">Food Review</string>
+    <string name="from_date">From Date</string>
+    <string name="gcm_defaultSenderId" translatable="false">692040501568</string>
+    <string name="google_api_key" translatable="false">AIzaSyD8wNDId0Jr0WfVEgV6S9QS5KBEPi48ak4</string>
+    <string name="google_app_id" translatable="false">1:692040501568:android:93d1edfcf8e2cc238912a5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD8wNDId0Jr0WfVEgV6S9QS5KBEPi48ak4</string>
+    <string name="google_storage_bucket" translatable="false">smart-hostel-management-af72c.firebasestorage.app</string>
+    <string name="leave_request">Leave Request</string>
+    <string name="login">Login</string>
+    <string name="my_complaints">My Complaints</string>
+    <string name="my_requests">My Requests</string>
+    <string name="my_room_requests">My Room Requests</string>
+    <string name="name">Name</string>
+    <string name="no_account">Don\'t have an account? Register</string>
+    <string name="non_ac">Non-AC</string>
+    <string name="password">Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="project_id" translatable="false">smart-hostel-management-af72c</string>
+    <string name="rating">Rating</string>
+    <string name="reason">Reason</string>
+    <string name="register">Register</string>
+    <string name="reject">Reject</string>
+    <string name="resolve">Resolve</string>
+    <string name="room_number">Room Number</string>
+    <string name="room_request">Room Request</string>
+    <string name="room_type">Room Type</string>
+    <string name="sharing">Sharing</string>
+    <string name="status">Status: %s</string>
+    <string name="student_dashboard">Student Dashboard</string>
+    <string name="submit">Submit</string>
+    <string name="to_date">To Date</string>
+    <string name="warden_dashboard">Warden Dashboard</string>
+    <string name="year">Year</string>
+    <style name="Theme.SmartHostel" parent="Theme.MaterialComponents.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primaryDark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/accent</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>
